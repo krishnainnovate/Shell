@@ -1,0 +1,3 @@
+testing the vim concept
+
+insert new text
